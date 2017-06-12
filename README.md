@@ -1,2 +1,1 @@
-# hello-world
-A trip to Git-hub
+Hi I am Dhanush. And I am new to this site. Hope I learn a lot.
